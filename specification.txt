@@ -1,0 +1,5 @@
+Algoritmo proposto no livro Quinn, Michael J. Parallel Computing: theory and practice. 2nd ed. 1994. 
+
+Implementar a versão Control-Parallel descritas nas páginas 09-12 deste livro. 
+
+Entregar apenas o código fonte, bem comentado para correto entendimento do mesmo.
