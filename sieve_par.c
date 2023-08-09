@@ -3,10 +3,7 @@
     Eratosthenes Sieve to find prime numbers
 
     Implemented by:
-        Guilherme Zanardo Borduchi  NUSP 8937458
-        Gustavo Ferreira Ceccon     NUSP 8936822
-        Matheus Henrique Soares     NUSP 8066349
-        Victor Hugo Heclis          NUSP 8937382
+        Guilherme, Gustavo, Matheus, Victor
 
     To compile: $ gcc -o name_of_executable -fopenmp -lm sieve_par.c
 
